@@ -10,6 +10,5 @@ namespace ListaEnc
     {
         public int i;
         public Element next;
-
     }
 }

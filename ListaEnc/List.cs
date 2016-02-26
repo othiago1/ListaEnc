@@ -23,30 +23,30 @@ namespace ListaEnc
 
 
             if (index.Equals(0))
-            {
-                newElement.i = i;
-                newElement.next = null;
-
-                lastOne = newElement;
-                firstOne = newElement;
-
-                index++;
-            }
-            else
-            {
-                while (aux != null)
                 {
-                    aux = aux.next;
+                    newElement.i = i;
+                    newElement.next = null;
+
+                    lastOne = newElement;
+                    firstOne = newElement;
+
+                    index++;
                 }
+            else
+                {
+                    while (aux != null)
+                    {
+                        aux = aux.next;
+                    }
 
-                newElement.i = i;
-                newElement.next = null; 
-                aux.next = newElement;
+                    newElement.i = i;
+                    newElement.next = null; 
+                    aux.next = newElement;
 
-                lastOne = newElement;
+                    lastOne = newElement;
                 
-                index++;
-            }
+                    index++;
+                }
             
         }
 

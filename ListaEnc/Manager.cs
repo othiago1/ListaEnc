@@ -9,10 +9,10 @@ namespace ListaEnc
     class Manager
     {
         static void Main(string[] args)
-        {
-            List list = new List();
+            {
+                List list = new List();
 
-            list.Add(1);
-        }
+                list.Add(1);
+            }
     }
 }

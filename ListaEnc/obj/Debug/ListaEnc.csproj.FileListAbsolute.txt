@@ -4,3 +4,5 @@ C:\Users\matheus.barros\Desktop\GitHub\ListaEncadeada\ListaEnc\ListaEnc\bin\Debu
 C:\Users\matheus.barros\Desktop\GitHub\ListaEncadeada\ListaEnc\ListaEnc\obj\Debug\ListaEnc.csprojResolveAssemblyReference.cache
 C:\Users\matheus.barros\Desktop\GitHub\ListaEncadeada\ListaEnc\ListaEnc\obj\Debug\ListaEnc.exe
 C:\Users\matheus.barros\Desktop\GitHub\ListaEncadeada\ListaEnc\ListaEnc\obj\Debug\ListaEnc.pdb
+C:\Users\matheus.barros\Desktop\GitHub\ListaEnc\ListaEnc\bin\Debug\ListaEnc.exe.config
+C:\Users\matheus.barros\Desktop\GitHub\ListaEnc\ListaEnc\obj\Debug\ListaEnc.exe

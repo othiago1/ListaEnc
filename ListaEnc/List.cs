@@ -15,7 +15,7 @@ namespace ListaEnc
 
         public void Add(int i)
         {
-            Console.WriteLine("Piru");
+            Console.WriteLine("Teste");
             Console.ReadKey();
 
             Element newElement = new Element();
